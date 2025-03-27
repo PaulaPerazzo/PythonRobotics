@@ -71,3 +71,7 @@ target/
 
 matplotrecorder/*
 .vscode/settings.json
+
+.venv
+
+test_analysis.ipynb
