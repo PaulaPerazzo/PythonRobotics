@@ -1,0 +1,5 @@
+Technique,Branch Coverage (%),Fault Detection (%),Avg Time (s),Total Tests
+CT 2-way,54.0,14.29,0.400603,7
+CT 3-way,54.0,33.33,0.307167,12
+CT 4-way,54.0,35.71,0.331404,28
+full-factorial,54.0,37.5,0.314121,64
