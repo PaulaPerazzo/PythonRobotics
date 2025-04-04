@@ -1,0 +1,5 @@
+label,total_duration,num_tests,exit_code,total_lines,covered_lines,missed_lines,coverage_percent
+manual_test.py,0.7227308750152588,0,5,271,266,5,98.15
+property_testing.py,1.8908100128173828,3,0,271,266,5,98.15
+combinatorial_testing.py,112.84819269180298,0,5,271,266,5,98.15
+data_flow_testing.py,0.08265900611877441,5,0,271,266,5,98.15
