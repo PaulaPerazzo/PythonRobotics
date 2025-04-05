@@ -1,0 +1,25 @@
+Test,Overall Execution Time (s),Total Test Duration (s),Failures,Coverage (%),Exit Code,Full report
+property_testing.py,3.407233,2.598615,0,78.0,0,"Name                           Stmts   Miss Branch BrPart  Cover
+----------------------------------------------------------------
+PathPlanning/AStar/a_star.py     144     30     48      1    78%
+----------------------------------------------------------------
+TOTAL                            144     30     48      1    78%
+"
+combinatorial_testing.py,63.415153,63.140397,24,62.0,1,"Name                           Stmts   Miss Branch BrPart  Cover
+----------------------------------------------------------------
+PathPlanning/AStar/a_star.py     144     55     48      4    62%
+----------------------------------------------------------------
+TOTAL                            144     55     48      4    62%
+"
+data_flow_testing.py,0.090642,0.007147,0,61.0,0,"Name                           Stmts   Miss Branch BrPart  Cover
+----------------------------------------------------------------
+PathPlanning/AStar/a_star.py     144     56     48      5    61%
+----------------------------------------------------------------
+TOTAL                            144     56     48      5    61%
+"
+unit_testing.py,0.107264,0.027557,0,67.0,0,"Name                           Stmts   Miss Branch BrPart  Cover
+----------------------------------------------------------------
+PathPlanning/AStar/a_star.py     144     49     48      0    67%
+----------------------------------------------------------------
+TOTAL                            144     49     48      0    67%
+"

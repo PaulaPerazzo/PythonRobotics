@@ -4,7 +4,7 @@ import csv
 from copy import deepcopy
 import math
 import matplotlib.pyplot as plt
-from PathPlanning.AStar.a_star import AStarPlanner
+from a_star import AStarPlanner
 
 AStarPlanner = AStarPlanner
 
